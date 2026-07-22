@@ -13,3 +13,6 @@ uma heurística de refinamento por Descida em Vizinhança Variável (DVV) e a me
 Erro Quadrático Médio (RMSE) entre o sinal original e o sinal reconstruído, bem como pelo tempo de execução. Os resultados obtidos evidenciam as vantagens e limitações de cada abordagem ao 
 comparar a qualidade das soluções e o custo computacional associado à compressão.
 
+## Arquivos
+- [Artigo](./Otimizacao_da_Compressao_Wavelet_de_Sinais_como_Problema_da_Mochila_Binaria.pdf)
+- [Código](./Main.ipynb)
